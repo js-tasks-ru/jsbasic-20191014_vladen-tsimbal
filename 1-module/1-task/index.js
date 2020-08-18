@@ -4,5 +4,5 @@
  * @returns {number}
  */
 function factorial(n) {
-
+	
 }
